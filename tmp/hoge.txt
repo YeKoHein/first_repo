@@ -1,3 +1,0 @@
-File is changed by master.
-Hi
->>>>>>> try-conflict
